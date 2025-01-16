@@ -1,4 +1,4 @@
-![Alt text](/https://github.com/logunlaja26/host-static-website-aws/blob/main/Host_a_Static_Website_on_AWS.png)
+![Alt text](/Host_a_Static_Website_on_AWS.png)
 
 ---
 
