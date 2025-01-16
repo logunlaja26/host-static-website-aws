@@ -213,11 +213,5 @@ systemctl start httpd
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
-
----
-
 **Thank you for using this guide!**  
 If you have any issues or suggestions, feel free to open an issue or create a pull request in this repository. Happy deploying!
